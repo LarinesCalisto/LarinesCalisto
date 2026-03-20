@@ -18,11 +18,6 @@ Com o tempo, me tornei uma profissional dedicada, curiosa e apaixonada por resol
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
 ---
 
-## 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
-
----
-
 ## 🌎 Onde me encontrar
 [![LinkedIn](https://www.linkedin.com/in/larissa-in%C3%AAs-calisto-1468263a7?)
 
