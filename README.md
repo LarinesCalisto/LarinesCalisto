@@ -1,6 +1,6 @@
 # 👋 Hi, eu sou a Larissa Inês
 
-✨Tenho 18 anos, sou desenvolvedora backend e estudante de ciêscias da computação, sou completamente fascinada por computadores, tanto o hardware quanto o software, e qualquer tipo de tecnologia minimamente inovadora ou criativa.✨
+✨Tenho 18 anos, sou desenvolvedora backend e estudante de ciências da computação, sou completamente fascinada por computadores, tanto o hardware quanto o software, e qualquer tipo de tecnologia minimamente inovadora ou criativa.✨
 Sou uma pessoa criativa, curiosa e inquieta, então sempre busco novos hobbies porque amo aprender coisas novas, e por achar muito divertido!!!✨✨✨
 
 ✨Durante minha jornada como desenvolvedora, fui colecionando aprendizados incríveis e explorando ideias que se transformaram em projetos com impacto positivo na sociedade.✨
