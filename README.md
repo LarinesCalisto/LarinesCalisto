@@ -36,8 +36,8 @@ Com o tempo, me tornei uma profissional dedicada, curiosa e apaixonada por resol
 <img height="200" src="./img/naruo.png">
     </div>
 
-![](https://img.shields.io/badge/
-🌟-Tecnologias_&_Ferramentas-FFD700?style=for-the-badge-🌟)
+
+##🌟 Tecnologias & Ferramentas 🌟
 
 💫 HTML5 • CSS3 • JavaScript • React 💫
 
