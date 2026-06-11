@@ -35,9 +35,9 @@ Com o tempo, me tornei uma profissional dedicada, curiosa e apaixonada por resol
 <div align="center">
 <img height="200" src="./img/naruo.png">
     </div>
-## 🌟 Tecnologias & Ferramentas 🌟
 
-![](https://img.shields.io/badge/✨-Tecnologias_&_Ferramentas-FFD700?style=for-the-badge)
+![](https://img.shields.io/badge/
+🌟-Tecnologias_&_Ferramentas-FFD700?style=for-the-badge)-🌟
 
 💫 HTML5 • CSS3 • JavaScript • React 💫
 
@@ -46,7 +46,7 @@ Com o tempo, me tornei uma profissional dedicada, curiosa e apaixonada por resol
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-💫 Python • C# • .NET 💫
+⚡ Python • C# • .NET ⚡
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
@@ -57,7 +57,7 @@ Com o tempo, me tornei uma profissional dedicada, curiosa e apaixonada por resol
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-💫 Git • GitHub • VS Code • Figma 💫
+⚡ Git • GitHub • VS Code • Figma ⚡
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -72,7 +72,7 @@ Com o tempo, me tornei uma profissional dedicada, curiosa e apaixonada por resol
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=500&color=BD93F9&width=900&lines=🌟+🌟+🌟;Amante+de+Matemática+e+de+Tecnologias" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=500&color=BD93F9&width=900&lines=🌟+🌙+🌟;Amante+de+Matemática+e+de+Tecnologias" />
 </p>
 
 <div align="center">
