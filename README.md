@@ -36,8 +36,9 @@ Com o tempo, me tornei uma profissional dedicada, curiosa e apaixonada por resol
 <img height="200" src="./img/naruo.png">
     </div>
 
-
+<div>
 ##🌟 Tecnologias & Ferramentas 🌟
+</div>
 
 💫 HTML5 • CSS3 • JavaScript • React 💫
 
