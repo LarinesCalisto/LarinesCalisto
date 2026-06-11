@@ -2,12 +2,13 @@
     
 # ✨ Larissa Inês Calisto: Desenvolvedora Back-end Criativa ✨
 
+<img height="200" src="./img/moana.png" >
 <br>
     
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=500&color=BD93F9&width=900&lines=Desenvolvedora+Back-end;Do+Back+-end+ao+Banco+de+Dados;Criando+soluções+modernas+e+escaláveis;Código+com+propósito" />
 </p>
-    
+
 <p>
     <a href="https://github.com/LarinesCalisto?tab=followers">
         <img alt="Seguidores GitHub" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/LarinesCalisto?color=663399&labelColor=4B0082&style=for-the-badge&logo=github&label=Seguidores" />
@@ -16,11 +17,12 @@
         <img alt="Total de Estrelas GitHub" title="Total de Estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/LarinesCalisto?color=FFD700&style=for-the-badge&labelColor=FFA500&logo=star&label=Estrelas" />
     </a>
 </p>
+
+
 <img src="https://komarev.com/ghpvc/?username=LarinesCalisto&style=flat-square&color=A020F0" alt="Visualizações do Perfil"/>
 
 </div>
 
----
 
 ## ⭐ Sobre Mim
 
@@ -30,8 +32,9 @@ Sou uma pessoa criativa, curiosa e inquieta, então sempre busco novos hobbies p
 ✨Durante minha jornada como desenvolvedora, fui colecionando aprendizados incríveis e explorando ideias que se transformaram em projetos com impacto positivo na sociedade.✨
 Com o tempo, me tornei uma profissional dedicada, curiosa e apaixonada por resolver problemas reais — sempre buscando criar soluções que façam a diferença de verdade. 💻
 
-
----
+<div align="center">
+<img height="200" src="./img/naruo.png">
+    </div>
 ## 🌟 Tecnologias & Ferramentas 🌟
 
 ![](https://img.shields.io/badge/✨-Tecnologias_&_Ferramentas-FFD700?style=for-the-badge)
@@ -62,11 +65,19 @@ Com o tempo, me tornei uma profissional dedicada, curiosa e apaixonada por resol
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 <br>
 <br>
+<div align="center">
+
+<div align="center">
+<img height="200" src="./img/gaara.png">
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=500&color=BD93F9&width=900&lines=🌟+🌟+🌟;Amante+de+Matemática+e+de+Tecnologias" />
 </p>
 
+<div align="center">
+<img height="200" src="./img/miranha.png">
+    </div>
 <h2> ⭐ My Contributions:</h2>
 
 </div>
@@ -80,3 +91,6 @@ Com o tempo, me tornei uma profissional dedicada, curiosa e apaixonada por resol
     <h3>🌎 Onde me encontrar</h3>
     <p>Interessado em ver como transformo ideias em código? Explore meus projetos ou entre em contato:</p>
     <a href="https://www.linkedin.com/in/larissa-in%C3%AAs-calisto-1468263a7=/">Linkedin</a>✨</div>
+    <div align="center">
+    <img height="200" src="./img/batman.png">
+    </div>
