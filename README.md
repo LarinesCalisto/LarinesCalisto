@@ -36,9 +36,9 @@ Com o tempo, me tornei uma profissional dedicada, curiosa e apaixonada por resol
 <img height="200" src="./img/naruo.png">
     </div>
 
-<div>
-##🌟 Tecnologias & Ferramentas 🌟
-</div>
+
+## 🌟 Tecnologias & Ferramentas 🌟
+
 
 💫 HTML5 • CSS3 • JavaScript • React 💫
 
@@ -71,11 +71,15 @@ Com o tempo, me tornei uma profissional dedicada, curiosa e apaixonada por resol
 <div align="center">
 <img height="200" src="./img/gaara.png">
 </div>
+<br>
+<br>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=500&color=BD93F9&width=900&lines=🌟+🌙+🌟;Amante+de+Matemática+e+de+Tecnologias" />
 </p>
 
+<br>
+<br>
 <div align="center">
 <img height="200" src="./img/miranha.png">
     </div>
